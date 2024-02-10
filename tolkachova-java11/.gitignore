@@ -1,0 +1,8 @@
+
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+**/target/**/
+!**/target/task1-1.0-SNAPSHOT.jar
+!**/target/task2-1.0-SNAPSHOT.jar
+**/.idea/
